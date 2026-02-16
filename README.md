@@ -88,8 +88,8 @@ target_roles:
 | Project | Description | Impact | Tech |
 |---------|-------------|--------|------|
 | [**Real-Time Transaction Pipeline**](https://github.com/ruturaj-mohalkar-25) | High-throughput banking pipeline with fraud detection | **10K+ TPS** | `Kafka` `Spring Boot` `Drools` |
-| [**LevelDB Bloom Filter Optimization**](https://github.com/ruturaj-mohalkar-25) | Redesigned write path with probabilistic duplicate detection | **67% throughput gain** | `C++` `LevelDB` `Bloom Filter` |
-| [**PostgreSQL B-Tree Optimization**](https://github.com/ruturaj-mohalkar-25) | Added leaf prefetch & linear scan to PostgreSQL internals | Reduced I/O latency | `C` `PostgreSQL 17.4` |
+| [**LevelDB Bloom Filter Optimization**](https://github.com/ruturaj-mohalkar-25/LevelDB-Bloom-Filter-Optimization) | Redesigned write path with probabilistic duplicate detection | **67% throughput gain** | `C++` `LevelDB` `Bloom Filter` |
+| [**PostgreSQL B-Tree Optimization**](https://github.com/ruturaj-mohalkar-25/PostgreSql-B-Tree-Optimization) | Added leaf prefetch & linear scan to PostgreSQL internals | Reduced I/O latency | `C` `PostgreSQL 17.4` |
 
 ### 📊 Data Engineering
 
