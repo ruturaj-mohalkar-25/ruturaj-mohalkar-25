@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruturajmohalkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ruturaj-mohalkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://www.ruturajmohalkar.work"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
   <a href="mailto:ruturaj2412mohalkar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 
 ---
@@ -14,22 +15,10 @@
 
 ```yaml
 name: Ruturaj Mohalkar
-role: AI/ML Engineer | Backend Developer | Data Engineer
-location: Los Angeles, CA
-education: MS Computer Science @ USC (2025 - 2026)
-experience: 3+ years @ Persistent Systems (SWE → Senior SWE)
-
-highlights:
-  - Built systems processing 10K+ transactions/second
-  - Reduced infrastructure costs by $143K+ annually
-  - Shipped GenAI applications serving 500+ users in production
-  - Designed ETL pipelines processing 50K+ records/minute
-
-status: Actively seeking Summer/Fall 2026 Internships
-target_roles:
-  - AI/ML Engineer
-  - Software Development Engineer (SDE/SWE)
-  - Data Engineer
+location: 📍 Los Angeles, CA
+education: 🎓 MS Computer Science @ USC (2025–2026)
+experience: 💼 3+ years @ Persistent Systems (SWE → Senior SWE)
+focus:      🤖 AI/ML | ⚙️ Backend Systems | 📊 Data Engineering
 ```
 
 ---
@@ -75,66 +64,19 @@ target_roles:
 
 ## Featured Projects
 
-### 🧠 AI/ML & GenAI
+### 🧠 AI/ML & NLP
 
-| Project | Description | Impact | Tech |
-|---------|-------------|--------|------|
-| [**Agentic AI Grading Platform**](https://github.com/ruturaj-mohalkar-25) | Production AI system for automated student evaluation at USC Marshall | **90% faster** grading, 400+ students | `Gemini` `LangChain` `PGVector` `Django` |
-| [**GenAI IDE Extension**](https://github.com/ruturaj-mohalkar-25) | RAG-powered code assistant with contextual reasoning | **60% productivity gain** | `LangChain` `Azure OpenAI` `RAG` |
-| [**Enterprise Q&A Chatbot**](https://github.com/ruturaj-mohalkar-25) | Closed-domain chatbot with hybrid retrieval (RoBERTa/BERT) | Real-time WebSocket streaming | `BERT` `RoBERTa` `AWS` |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Adaptive Query Reformulation**](https://github.com/ruturaj-mohalkar-25/adaptive-query-reformation) | Query quality classification + T5-based rewriting for ambiguous NL queries | `DistilRoBERTa` `T5` `Hugging Face` |
+| [**AI4Peace**](#) | Multimodal video analysis — facial expressions, posture, weapons, audio & text | `PyTorch` `TensorFlow` `Vertex AI` |
 
-### ⚙️ Backend & Distributed Systems
+### ⚙️ Systems & Databases
 
-| Project | Description | Impact | Tech |
-|---------|-------------|--------|------|
-| [**Real-Time Transaction Pipeline**](https://github.com/ruturaj-mohalkar-25) | High-throughput banking pipeline with fraud detection | **10K+ TPS** | `Kafka` `Spring Boot` `Drools` |
-| [**LevelDB Bloom Filter Optimization**](https://github.com/ruturaj-mohalkar-25/LevelDB-Bloom-Filter-Optimization) | Redesigned write path with probabilistic duplicate detection | **67% throughput gain** | `C++` `LevelDB` `Bloom Filter` |
-| [**PostgreSQL B-Tree Optimization**](https://github.com/ruturaj-mohalkar-25/PostgreSql-B-Tree-Optimization) | Added leaf prefetch & linear scan to PostgreSQL internals | Reduced I/O latency | `C` `PostgreSQL 17.4` |
-
-### 📊 Data Engineering
-
-| Project | Description | Impact | Tech |
-|---------|-------------|--------|------|
-| [**Insurance ETL Migration**](https://github.com/ruturaj-mohalkar-25) | Large-scale batch migration to Snowflake | **50K+ records/min** | `Spark` `AWS Glue` `Snowflake` |
-| [**Data Platform Modernization**](https://github.com/ruturaj-mohalkar-25) | Consolidated 3,000+ Denodo views into optimized Snowflake pipelines | **$143K+ annual savings** | `Snowflake` `Azure AD` `RBAC` |
-
----
-
-## Work Experience
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  USC Marshall School of Business                                            │
-│  AI Developer | June 2025 - Present | Los Angeles, CA                       │
-│  └─ Agentic AI grading platform (Gemini, LangChain, PGVector)              │
-│  └─ 99.9% uptime, 500+ users, 90% reduction in grading time                │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Persistent Systems                                                         │
-│  Senior Software Engineer | Jan 2024 - Jan 2025 | Pune, India              │
-│  └─ GenAI IDE extension with RAG (60% productivity improvement)            │
-│  └─ Data platform modernization ($143K+ cost savings)                      │
-│  └─ CI/CD pipelines for GenAI and data workflows                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Persistent Systems                                                         │
-│  Software Engineer | July 2022 - Jan 2024 | Pune, India                    │
-│  └─ Kafka pipeline: 10K+ TPS with real-time fraud detection                │
-│  └─ ETL pipelines: 50K+ records/min to Snowflake                           │
-│  └─ Enterprise chatbot with fine-tuned BERT/RoBERTa                        │
-│  └─ Anomaly detection platform (20% F1 improvement)                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Persistent Systems                                                         │
-│  Intern | Jan 2022 - July 2022 | Pune, India                               │
-│  └─ Backend development for enterprise data pipelines                      │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Education
-
-🎓 **University of Southern California** — MS Computer Science (2025 - 2026)
-
-🎓 **Smt. Kashibai Navale College of Engineering** — BE Computer Engineering (2018 - 2022)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**LevelDB Bloom Filter Optimization**](https://github.com/ruturaj-mohalkar-25/LevelDB-Bloom-Filter-Optimization) | Integrated Bloom filter into write path for probabilistic duplicate detection | `C++` `LevelDB` `LSM-Tree` |
+| [**PostgreSQL B-Tree Optimization**](https://github.com/ruturaj-mohalkar-25/PostgreSql-B-Tree-Optimization) | Added leaf-page prefetch & linear scan to B-Tree internals | `C` `PostgreSQL 17.4` |
 
 ---
 
@@ -148,20 +90,20 @@ target_roles:
 
 ## Let's Connect
 
+
+
 <p align="center">
-  <b>🎯 Open to Summer/Fall 2026 Internships in:</b><br><br>
+  <b>🟢 &nbsp; Actively seeking Summer / Fall 2026 Internships & Co-ops</b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/AI%2FML_Engineering-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend%2FSWE-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%2FSWE-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Engineering-E25A1C?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruturajmohalkar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:ruturaj2412mohalkar@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ruturaj-mohalkar/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/></a>&nbsp;
+  <a href="mailto:ruturaj2412mohalkar@gmail.com"><img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
-
-<p align="center">
-  <i>💡 Check out my pinned repositories below for code samples and detailed documentation</i>
-</p>
